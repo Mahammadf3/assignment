@@ -1,0 +1,9 @@
+.BrandsContainer1{
+    display:flex;
+    flex-direction: column;
+}
+.checkContainer1{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}

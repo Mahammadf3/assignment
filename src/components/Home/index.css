@@ -1,0 +1,41 @@
+.searchContaine{
+    display: flex;
+    flex-direction: row;
+  
+    flex-wrap: wrap;
+  
+}
+.searchContainer{
+    display: flex;
+    flex-direction: row;
+ 
+    height:100%;
+}
+.leftContainer{
+    width:20vw;
+    margin-left: 1px;
+    background-color:white;
+    height: 100%;
+}
+.productsCard{
+   width: 80%;
+}
+.horiZontalLine{
+    width:20vw;
+}
+.smallContainer{
+    display: flex;
+    flex-direction: column;
+}
+.products-loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .products-loader-container {
+      width: 70%;
+    }
+  }

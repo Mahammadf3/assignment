@@ -1,0 +1,13 @@
+.BrandsContainer2{
+    display:flex;
+    flex-direction: column;
+}
+.checkContainer2{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}
+.startRating{
+    width:15vw;
+ 
+}

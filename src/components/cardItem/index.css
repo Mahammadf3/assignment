@@ -1,0 +1,40 @@
+.firstCard{
+    display: flex;
+    flex-direction: column;
+    height:370px;
+    box-shadow: 0px 4px 16px 0px wheat;
+    margin: 12px;
+    border-radius: 12px;
+    background-color: white;
+}
+.dressImahge{
+    height:200px;
+  
+}
+.hi{
+    margin-left: 10px;
+}
+.stars{
+    width:60px;
+   
+}
+.heart{
+ margin-right: 12px;
+ cursor: pointer;
+}
+.ratingContainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}
+.like{
+    color: red;
+    margin-right: 12px;
+    cursor: pointer;
+   
+}
+.productColor{
+    background-color: purple;
+   
+}
